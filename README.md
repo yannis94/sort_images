@@ -22,7 +22,7 @@ I wrote a script in python call **partOne.py** for that task.
 One thing to keep in mind, Wordpress save your pic in multiple format (for thumbnail etc..) but store your pic in the database only with the main path.
  
 ###### Exemple :
-You push *my_pics.png*, Wordpress save this pic in multiple format like *my_pics-250x250.png* or *my_pics-1024x645.png* in the **uploads** folder but it will be stored as http://yourdomain.com/wp-content/uploads/2020/12/my_pics.png only, in the database.
+> You push *my_pics.png*, Wordpress save this pic in multiple format like *my_pics-250x250.png* or *my_pics-1024x645.png* in the **uploads** folder but it will be stored as http://yourdomain.com/wp-content/uploads/2020/12/my_pics.png only, in the database.
 
 So the bubbleSort function is here to group all declinate pics and keep the one we want.
 
