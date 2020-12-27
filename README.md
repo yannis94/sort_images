@@ -40,9 +40,8 @@ This function return an array composed by all the useless pics.
 This [article](https://www.h3xed.com/web-development/how-to-bulk-delete-all-images-in-wordpress-media-library-and-database) helps me understand where and how you can delete images in the DB. But I recommand to play a little bit with it in local for a better undestanding.
 
 Here is the script that you have to run. It is called partFinal.py and it create two things : 
-	- script.sql wich is the file that you will run in your database.
-	- a new uploads directory wich contain only the used images called new_uploads
-
+- script.sql wich is the file that you will run in your database.
+- a new uploads directory wich contain only the used images called new_uploads.
 
 ## ----- Manual -----
 
