@@ -43,7 +43,7 @@ Here is the script that you have to run. It is called partFinal.py and it create
 - script.sql wich is the file that you will run in your database.
 - a new uploads directory wich contain only the used images called new_uploads.
 
-## ----- Manual -----
+## Manual / how to use it
 
 To run **partFinal.py** you need your uploads folder (from your Wordpress) and the list of all the pics that you want to keep, name this file : *used_images.txt*.
 If you want to try, you can find an **uploads** folder and a **used_images.txt** for you.
