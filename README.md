@@ -15,7 +15,7 @@ I list few steps to solve that challenge.
 With [Screaming Frog](https://www.screamingfrog.co.uk/) I have a list with all used images on every page of the web site (the one I want to keep).
 Saved this list as *used_images.txt*
 
-## 2/ Create a list with all images (with the useless one)
+## 2/ Create a list with all images (with the useless one too)
 
 All images pushed on Wordpress are stored in the uploads directory, with multiple other directories inside (date hierarchy like **./uploads/2019/11/** for exemple).
 I wrote a script in python call **partOne.py** for that task. 
